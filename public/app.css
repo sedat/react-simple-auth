@@ -1,0 +1,20 @@
+a {
+    text-decoration: none;
+}
+
+body {
+    margin: 0 auto;
+}
+
+.card {
+    width: 350px;
+    margin: 100px auto;
+}
+
+.buttons {
+    margin: 5px 10px;
+}
+
+.card img {
+    width: 325px;
+}
